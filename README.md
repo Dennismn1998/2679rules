@@ -19,7 +19,7 @@ Any threats about not participating in prep week or if a NAP R4/R5 inform their 
 2679 NON-AGGRESSION PACT (NAP) RULES 2.0 		SIMPLIFIED VERSION
 1. Members
 •	NAP covers the Top 4 alliances in power.
-•	If an alliance drops below Top 5, they have 24 hours to recover or will be removed.
+•	If an alliance drops below Top 4, they have 24 hours to recover or will be removed.
 2. Academies
 •	Each NAP alliance may have one academy.
 •	Academies are protected under NAP and treated as part of the main alliance.
